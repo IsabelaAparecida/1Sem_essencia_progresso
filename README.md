@@ -52,12 +52,8 @@ Futuramente
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+![Progresso Consultoria -Sprint 1](https://img.youtube.com/vi/48rzy8MuKf4/0.jpg)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/link.png" width="100%"/>
-</p>
 
 ## Sprint 2
 >Descrever aqui o que foi entregue na sprint
