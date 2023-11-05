@@ -52,8 +52,7 @@ Futuramente
 
 
 ## Sprint 2
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+![Progresso Consultoria -Sprint 1](https://img.youtube.com/vi/watch?v=kGLPGpjmp3.jpg)
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
