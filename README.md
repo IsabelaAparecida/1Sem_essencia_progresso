@@ -52,7 +52,8 @@ Futuramente
 
 
 ## Sprint 2
-![Progresso Consultoria -Sprint 1](https://img.youtube.com/vi/v=kGLPGpjmp3E.jpg).].(https://www.youtube.com/watch?v=kGLPGpjmp3E).
+[![SPRINT 2](https://img.youtube.com/vi/kGLPGpjmp3E.jpg)](https://youtu.be/kGLPGpjmp3E)
+
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/tabela.png" width="100%"/>
